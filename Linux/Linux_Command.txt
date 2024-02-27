@@ -1,0 +1,29 @@
+Các lệnh linux dùng thường xuyên : 
+1. Ls: This command is used to list the contents of a directory.
+2. Sudo: This command executes only that command with superuser privileges.
+3. Pwd: This command will print your directory location, where you currently working.
+4. Cat: This is used to concatenate and display files on the terminal. It can also be used to modify existing ones.
+5. Vim: This is a text editor used in Linux. It stands for “Vi Improved”.
+  Normal mode: This is the default mode in which vim starts. In normal mode, you can use various commands to navigate and edit the text.
+  Insert mode: In insert mode, you can type text into the file. To enter insert mode, press the "i" key. To exit insert mode and return to normal mode, press the "Esc" key.
+  Command mode: In command mode, you can enter commands to perform various actions, such as saving the file or quitting vim. To enter command mode, press the ":" key.
+6. Grep: This command searches for a particular string/ word in a text file. This is similar to “Ctrl+F” but executed via a CLI.
+7. Tail: This command prints the last N number of data of the given input. By default, it prints 10 lines.
+8. Chmod: This command is used to change the access permissions of files and directories.
+For example: Following “chmod” command will give the user permission to read, write and execute a file.(Thay đổi quyền cho file)
+9. Chown: This command is used to change the file Owner or group.
+10. Ifconfig: This is used to configure the kernel-resident network interfaces.
+11. Free: This command displays the total amount of free space available along with the amount of memory used and swap memory in the system, and also the buffers used by the kernel.
+12. Curl: Curl is a tool used for transferring data to or from a server, using various protocols, such as HTTP, HTTPS, FTP, and more.
+13. Apt-get: This command is used to install, update, and remove packages, as well as to manage the package repository sources.
+Here are some common apt-get commands:
+  apt-get update: This updates the package index files from the package repositories listed in the /etc/apt/sources.list file. This is usually the first command you should run after adding a new repository or package to your system.
+  apt-get upgrade: This installs newer versions of packages that are already installed on the system. It will also remove any packages that are no longer required.
+  apt-get install: This installs one or more packages. For example, to install the nano text editor, you would run apt-get install nano.
+  apt-get remove: This removes one or more packages, but it does not remove the configuration files for the package.
+  apt-get purge: This removes one or more packages and their configuration files.
+apt-get autoremove: This removes packages that were installed as dependencies but are no longer needed.
+14. Ps: We use ps command to check the unique id behind every process.
+a = show processes for all users
+u = display the process’s user/owner
+x = also show processes not attached to a terminal
