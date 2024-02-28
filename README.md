@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-- [Linux](#https://github.com/lovetruongan/DevOps_Self_Study/tree/main/Linux)
+- [Linux](https://github.com/lovetruongan/DevOps_Self_Study/tree/main/Linux)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
