@@ -1,0 +1,4 @@
+1 : Tải Virtual Box từ internet, Install and setup
+2 : Chọn new VM, setup name type và version máy ảo
+3 : Chỉnh ram và tạo ổ cứng
+4 : Từ trang chủ Ubuntu hoặc Centos tải về file iso phiên bản VM cần cài đặt
